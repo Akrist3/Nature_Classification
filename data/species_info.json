@@ -1,0 +1,461 @@
+{
+  "aloe_vera": {
+    "common_name": "Aloe Vera",
+    "scientific_name": "Aloe vera",
+    "type": "Plant",
+    "wild_status": "Cultivated",
+    "conservation_status": "Not threatened (widely cultivated; wild origin uncertain)",
+    "status_level": "safe",
+    "brief": "A succulent plant with thick, fleshy leaves that store a clear gel. It is grown worldwide for skin care and traditional medicine.",
+    "habitat": "Dry, warm regions; grown in gardens, pots and farms.",
+    "uses": "Gel is used for burns, skin care and cosmetics; juice is used in traditional medicine.",
+    "threats": "Few threats, since it is widely cultivated.",
+    "fun_facts": [
+      "It stores water in its leaves, so it survives long dry spells.",
+      "It belongs to the family Asphodelaceae."
+    ],
+    "wikipedia": "Aloe vera"
+  },
+  "asian_elephant": {
+    "common_name": "Asian Elephant",
+    "scientific_name": "Elephas maximus",
+    "type": "Animal",
+    "wild_status": "Wild",
+    "conservation_status": "Endangered (IUCN Red List)",
+    "status_level": "threatened",
+    "brief": "The largest land mammal in Asia, living in family herds led by an older female. Smaller than the African elephant, with smaller ears.",
+    "habitat": "Forests and grasslands of India, Sri Lanka and Southeast Asia.",
+    "diet": "Herbivore: grasses, bark, roots and fruit.",
+    "threats": "Habitat fragmentation, human-elephant conflict and poaching for ivory.",
+    "fun_facts": [
+      "The trunk has tens of thousands of muscles.",
+      "Elephants communicate using low-frequency sounds."
+    ],
+    "wikipedia": "Asian elephant"
+  },
+  "banyan": {
+    "common_name": "Banyan",
+    "scientific_name": "Ficus benghalensis",
+    "type": "Plant",
+    "wild_status": "Wild (also planted)",
+    "conservation_status": "Least Concern",
+    "status_level": "safe",
+    "brief": "A large fig tree that grows aerial roots which become new trunks. It is India's national tree.",
+    "habitat": "Tropical and subtropical regions of the Indian subcontinent; planted in villages and temples.",
+    "uses": "Shade tree; bark and latex are used in traditional medicine; sacred in Indian culture.",
+    "threats": "Mostly safe, but old trees can be lost to urban expansion.",
+    "fun_facts": [
+      "One tree can spread over a huge area through its prop roots.",
+      "The Great Banyan in Kolkata is among the widest trees in the world."
+    ],
+    "wikipedia": "Ficus benghalensis"
+  },
+  "bengal_monitor": {
+    "common_name": "Bengal Monitor",
+    "scientific_name": "Varanus bengalensis",
+    "type": "Animal",
+    "wild_status": "Wild",
+    "conservation_status": "Least Concern (IUCN); protected under Indian law",
+    "status_level": "safe",
+    "brief": "A large lizard found across South Asia, often seen on the ground or climbing trees. It has a long forked tongue like a snake.",
+    "habitat": "Forests, scrubland, farmland and the edges of villages.",
+    "diet": "Carnivore: insects, rodents, eggs, small reptiles and carrion.",
+    "threats": "Hunted for meat and skin; killed out of fear; habitat loss.",
+    "fun_facts": [
+      "It is protected under India's Wildlife Protection Act.",
+      "It flicks its tongue to smell its surroundings."
+    ],
+    "wikipedia": "Bengal monitor"
+  },
+  "brahmi": {
+    "common_name": "Brahmi",
+    "scientific_name": "Bacopa monnieri",
+    "type": "Plant",
+    "wild_status": "Wild (also cultivated)",
+    "conservation_status": "Not globally threatened; over-harvesting is a concern",
+    "status_level": "safe",
+    "brief": "A small creeping herb of wet places that is well known in Ayurveda as a memory and brain tonic.",
+    "habitat": "Marshes, wetlands and the banks of ponds and streams.",
+    "uses": "Used in Ayurvedic medicine, mainly for memory and calming effects.",
+    "threats": "Over-collection from the wild for medicine and loss of wetlands.",
+    "fun_facts": [
+      "Its Sanskrit name is linked to 'Brahma', the creator.",
+      "It grows well in waterlogged soil."
+    ],
+    "wikipedia": "Bacopa monnieri"
+  },
+  "chital": {
+    "common_name": "Chital (Spotted Deer)",
+    "scientific_name": "Axis axis",
+    "type": "Animal",
+    "wild_status": "Wild",
+    "conservation_status": "Least Concern (IUCN)",
+    "status_level": "safe",
+    "brief": "A graceful deer with a reddish-brown coat covered in white spots all year. It lives in herds and is a main prey of the tiger and leopard.",
+    "habitat": "Open forests and grasslands of India, Sri Lanka and Nepal.",
+    "diet": "Herbivore: grasses, leaves, flowers and fruit.",
+    "threats": "Poaching and habitat loss, but numbers are stable overall.",
+    "fun_facts": [
+      "Males grow branched antlers and shed them every year.",
+      "Chital often follow langurs to eat the fruit they drop."
+    ],
+    "wikipedia": "Chital"
+  },
+  "common_kingfisher": {
+    "common_name": "Common Kingfisher",
+    "scientific_name": "Alcedo atthis",
+    "type": "Animal",
+    "wild_status": "Wild",
+    "conservation_status": "Least Concern (IUCN)",
+    "status_level": "safe",
+    "brief": "A small, brightly coloured bird with a blue back and orange underparts that dives into water to catch fish.",
+    "habitat": "Rivers, ponds, lakes and streams across Europe and Asia.",
+    "diet": "Carnivore: small fish, water insects and tadpoles.",
+    "threats": "Water pollution and loss of river banks for nesting.",
+    "fun_facts": [
+      "It nests in tunnels dug into river banks.",
+      "It can dive from a perch and catch fish in a split second."
+    ],
+    "wikipedia": "Common kingfisher"
+  },
+  "daisy": {
+    "common_name": "Daisy",
+    "scientific_name": "Bellis perennis",
+    "type": "Plant",
+    "wild_status": "Wild (common lawn plant)",
+    "conservation_status": "Not threatened",
+    "status_level": "safe",
+    "brief": "A small flower with white petals around a yellow centre, common on lawns and meadows.",
+    "habitat": "Lawns, meadows and grassy roadsides in temperate regions.",
+    "uses": "Mostly ornamental; leaves and flowers are edible and used in traditional medicine.",
+    "threats": "Not threatened; often treated as a lawn weed.",
+    "fun_facts": [
+      "The flower head closes at night and opens in the morning.",
+      "The name 'daisy' comes from 'day's eye'."
+    ],
+    "wikipedia": "Bellis perennis"
+  },
+  "dandelion": {
+    "common_name": "Dandelion",
+    "scientific_name": "Taraxacum officinale",
+    "type": "Plant",
+    "wild_status": "Wild (common weed)",
+    "conservation_status": "Not threatened",
+    "status_level": "safe",
+    "brief": "A yellow flower that turns into a white puffball of seeds carried by the wind. It grows almost anywhere.",
+    "habitat": "Fields, lawns, roadsides and waste ground worldwide.",
+    "uses": "Leaves are eaten as greens; root is used in herbal teas and medicine.",
+    "threats": "Not threatened; regarded as a weed.",
+    "fun_facts": [
+      "Each seed has a tiny parachute that helps it fly far.",
+      "The whole plant is edible."
+    ],
+    "wikipedia": "Taraxacum officinale"
+  },
+  "giant_milkweed": {
+    "common_name": "Giant Milkweed (Aak)",
+    "scientific_name": "Calotropis gigantea",
+    "type": "Plant",
+    "wild_status": "Wild",
+    "conservation_status": "Not threatened",
+    "status_level": "safe",
+    "brief": "A large shrub with waxy purple-white flowers and a milky, toxic sap. It is common on dry wasteland in India.",
+    "habitat": "Dry wasteland, roadsides and scrubland of South and Southeast Asia.",
+    "uses": "Used in traditional medicine and religious offerings; fibres from the stem have been used. The sap is poisonous.",
+    "threats": "Not threatened; grows easily in poor soil.",
+    "fun_facts": [
+      "It is a host plant for butterflies such as the Plain Tiger.",
+      "Its flowers are offered in some Hindu worship."
+    ],
+    "wikipedia": "Calotropis gigantea"
+  },
+  "gotu_kola": {
+    "common_name": "Gotu Kola",
+    "scientific_name": "Centella asiatica",
+    "type": "Plant",
+    "wild_status": "Wild (also cultivated)",
+    "conservation_status": "Not globally threatened",
+    "status_level": "safe",
+    "brief": "A small creeping herb with round, fan-shaped leaves. It is used in traditional Indian and Chinese medicine.",
+    "habitat": "Damp ground, ditches and swamps in tropical and subtropical regions.",
+    "uses": "Used for skin healing and as a herbal tonic; leaves are eaten as a salad green in parts of Asia.",
+    "threats": "Over-collection and loss of wetland habitat locally.",
+    "fun_facts": [
+      "It spreads by runners along the ground.",
+      "It is also called Mandukaparni in Ayurveda."
+    ],
+    "wikipedia": "Centella asiatica"
+  },
+  "hibiscus": {
+    "common_name": "Hibiscus",
+    "scientific_name": "Hibiscus rosa-sinensis",
+    "type": "Plant",
+    "wild_status": "Cultivated",
+    "conservation_status": "Not threatened (widely cultivated)",
+    "status_level": "safe",
+    "brief": "A shrub with large, showy flowers, usually red. It is a very common garden plant in India.",
+    "habitat": "Tropical and subtropical regions; grown in gardens and as hedges.",
+    "uses": "Ornamental; flowers are used in worship, hair care and herbal drinks.",
+    "threats": "Not threatened because it is widely grown.",
+    "fun_facts": [
+      "Hibiscus flowers last only a day or two.",
+      "It is the national flower of Malaysia."
+    ],
+    "wikipedia": "Hibiscus rosa-sinensis"
+  },
+  "indian_cobra": {
+    "common_name": "Indian Cobra",
+    "scientific_name": "Naja naja",
+    "type": "Animal",
+    "wild_status": "Wild",
+    "conservation_status": "Least Concern (IUCN); protected under Indian law",
+    "status_level": "safe",
+    "brief": "A venomous snake that spreads its hood when threatened. It is one of India's 'Big Four' venomous snakes.",
+    "habitat": "Forests, farmland, villages and rocky areas across the Indian subcontinent.",
+    "diet": "Carnivore: rats, frogs, lizards and other snakes.",
+    "threats": "Killed out of fear, road deaths and habitat loss.",
+    "fun_facts": [
+      "It plays an important role in controlling rats.",
+      "Its bite needs urgent medical treatment with antivenom."
+    ],
+    "wikipedia": "Indian cobra"
+  },
+  "indian_crested_porcupine": {
+    "common_name": "Indian Crested Porcupine",
+    "scientific_name": "Hystrix indica",
+    "type": "Animal",
+    "wild_status": "Wild",
+    "conservation_status": "Least Concern (IUCN)",
+    "status_level": "safe",
+    "brief": "A large rodent covered in sharp black and white quills. It is active mostly at night.",
+    "habitat": "Forests, grasslands, hills and farmland across South Asia.",
+    "diet": "Herbivore: roots, tubers, fruit and crops.",
+    "threats": "Hunting for meat and killing as a crop pest.",
+    "fun_facts": [
+      "It rattles its quills to warn predators.",
+      "It lives in burrows and caves."
+    ],
+    "wikipedia": "Indian crested porcupine"
+  },
+  "indian_peafowl": {
+    "common_name": "Indian Peafowl",
+    "scientific_name": "Pavo cristatus",
+    "type": "Animal",
+    "wild_status": "Wild (also kept in captivity)",
+    "conservation_status": "Least Concern (IUCN)",
+    "status_level": "safe",
+    "brief": "The male, the peacock, has a long, colourful train of feathers that it fans out to attract females. It is India's national bird.",
+    "habitat": "Forests, farmland and villages across the Indian subcontinent.",
+    "diet": "Omnivore: seeds, insects, small reptiles and fruit.",
+    "threats": "Poisoning from pesticides and hunting in some areas.",
+    "fun_facts": [
+      "The train is not the tail but long upper tail covert feathers.",
+      "Peacocks dance with their feathers open, especially in the monsoon."
+    ],
+    "wikipedia": "Indian peafowl"
+  },
+  "indian_rhinoceros": {
+    "common_name": "Indian Rhinoceros",
+    "scientific_name": "Rhinoceros unicornis",
+    "type": "Animal",
+    "wild_status": "Wild",
+    "conservation_status": "Vulnerable (IUCN Red List)",
+    "status_level": "threatened",
+    "brief": "Also called the greater one-horned rhino, it has a single black horn and thick skin folded into plate-like sections.",
+    "habitat": "Tall grasslands and floodplains of Assam and Nepal. Kaziranga National Park holds most of the population.",
+    "diet": "Herbivore: grasses, leaves, fruit and aquatic plants.",
+    "threats": "Poaching for horn, floods and loss of grassland.",
+    "fun_facts": [
+      "It is a good swimmer.",
+      "Conservation efforts have brought it back from near extinction."
+    ],
+    "wikipedia": "Indian rhinoceros"
+  },
+  "indian_rock_python": {
+    "common_name": "Indian Rock Python",
+    "scientific_name": "Python molurus",
+    "type": "Animal",
+    "wild_status": "Wild",
+    "conservation_status": "Near Threatened (IUCN Red List)",
+    "status_level": "threatened",
+    "brief": "One of the largest snakes in India. It is non-venomous and kills prey by squeezing it.",
+    "habitat": "Forests, grasslands, marshes and rocky hills of South Asia.",
+    "diet": "Carnivore: deer, birds, rodents and other small animals.",
+    "threats": "Hunting for skin and meat, and habitat loss.",
+    "fun_facts": [
+      "It can go weeks without eating after a large meal.",
+      "The female coils around her eggs to keep them warm."
+    ],
+    "wikipedia": "Indian rock python"
+  },
+  "mango": {
+    "common_name": "Mango",
+    "scientific_name": "Mangifera indica",
+    "type": "Plant",
+    "wild_status": "Cultivated",
+    "conservation_status": "Data Deficient (IUCN); widely cultivated",
+    "status_level": "unknown",
+    "brief": "A tropical fruit tree whose sweet fruit is eaten around the world. The mango is India's national fruit.",
+    "habitat": "Tropical and subtropical regions; grown in orchards and home gardens.",
+    "uses": "Fruit is eaten fresh or in juice, pickles and sweets; leaves and wood have traditional uses.",
+    "threats": "Wild forms are rare due to forest loss; cultivated trees are common.",
+    "fun_facts": [
+      "India is one of the world's largest mango producers.",
+      "There are hundreds of varieties, such as Alphonso and Dasheri."
+    ],
+    "wikipedia": "Mango"
+  },
+  "monarch_butterfly": {
+    "common_name": "Monarch Butterfly",
+    "scientific_name": "Danaus plexippus",
+    "type": "Animal",
+    "wild_status": "Wild",
+    "conservation_status": "Endangered (migratory population, IUCN Red List)",
+    "status_level": "threatened",
+    "brief": "An orange and black butterfly famous for its long migration. Its bright colours warn predators that it tastes bad.",
+    "habitat": "Open meadows, fields and gardens, mainly in North America.",
+    "diet": "Caterpillars eat milkweed; adults drink nectar from flowers.",
+    "threats": "Loss of milkweed, pesticides, climate change and loss of overwintering forests.",
+    "fun_facts": [
+      "Migration takes several generations to complete.",
+      "Milkweed makes it toxic to predators."
+    ],
+    "wikipedia": "Monarch butterfly"
+  },
+  "moringa": {
+    "common_name": "Moringa (Drumstick Tree)",
+    "scientific_name": "Moringa oleifera",
+    "type": "Plant",
+    "wild_status": "Cultivated",
+    "conservation_status": "Not threatened (widely cultivated)",
+    "status_level": "safe",
+    "brief": "A fast-growing tree with long drumstick-shaped pods. Its leaves and pods are very nutritious.",
+    "habitat": "Tropical and subtropical regions; grown in farms and home gardens.",
+    "uses": "Pods (drumsticks) are used in sambar and curries; leaves are eaten as greens or powder; seeds can help clean water.",
+    "threats": "Not threatened because it is widely grown.",
+    "fun_facts": [
+      "It grows well in dry, poor soils.",
+      "It is nicknamed the 'miracle tree'."
+    ],
+    "wikipedia": "Moringa oleifera"
+  },
+  "neem": {
+    "common_name": "Neem",
+    "scientific_name": "Azadirachta indica",
+    "type": "Plant",
+    "wild_status": "Wild (also widely planted)",
+    "conservation_status": "Not threatened (widely cultivated)",
+    "status_level": "safe",
+    "brief": "A large evergreen tree known for its bitter leaves. Every part of it is used in medicine, farming and daily life in India.",
+    "habitat": "Dry tropical regions of the Indian subcontinent; planted along roads and in villages.",
+    "uses": "Twigs for brushing teeth, leaves and oil for skin care, and neem extracts as natural pesticides.",
+    "threats": "Not threatened.",
+    "fun_facts": [
+      "Neem twigs have been used as natural toothbrushes for centuries.",
+      "Neem oil is used in organic farming."
+    ],
+    "wikipedia": "Azadirachta indica"
+  },
+  "nilgiri_tahr": {
+    "common_name": "Nilgiri Tahr",
+    "scientific_name": "Nilgiritragus hylocrius",
+    "type": "Animal",
+    "wild_status": "Wild",
+    "conservation_status": "Endangered (IUCN Red List)",
+    "status_level": "threatened",
+    "brief": "A sturdy mountain goat found only in the Western Ghats of southern India. It is the state animal of Tamil Nadu.",
+    "habitat": "Steep grassy slopes and rocky cliffs of the Nilgiri and Anamalai hills in the Western Ghats.",
+    "diet": "Herbivore: grasses and herbs.",
+    "threats": "Habitat loss, hunting and limited range.",
+    "fun_facts": [
+      "It climbs steep cliffs with ease.",
+      "Only a few thousand remain in the wild."
+    ],
+    "wikipedia": "Nilgiri tahr"
+  },
+  "peepal": {
+    "common_name": "Peepal (Sacred Fig)",
+    "scientific_name": "Ficus religiosa",
+    "type": "Plant",
+    "wild_status": "Wild (also planted)",
+    "conservation_status": "Not threatened",
+    "status_level": "safe",
+    "brief": "A large fig tree with heart-shaped leaves that is sacred in Hinduism, Buddhism and Jainism. Buddha is said to have gained enlightenment under one.",
+    "habitat": "Tropical Asia; planted near temples, villages and roadsides.",
+    "uses": "Shade tree; leaves, bark and fruit are used in traditional medicine; sacred in several religions.",
+    "threats": "Not threatened; protected culturally.",
+    "fun_facts": [
+      "Its leaves have a long tip that helps rain water drip off quickly.",
+      "The Bodhi Tree in Bodh Gaya is a peepal."
+    ],
+    "wikipedia": "Ficus religiosa"
+  },
+  "rhesus_macaque": {
+    "common_name": "Rhesus Macaque",
+    "scientific_name": "Macaca mulatta",
+    "type": "Animal",
+    "wild_status": "Wild",
+    "conservation_status": "Least Concern (IUCN)",
+    "status_level": "safe",
+    "brief": "A brown-grey monkey that lives in large groups. It is commonly seen near temples and towns in India.",
+    "habitat": "Forests, farmland, temples and cities across South and Southeast Asia.",
+    "diet": "Omnivore: fruit, seeds, leaves, insects and food from people.",
+    "threats": "Not threatened, but conflict with humans is common.",
+    "fun_facts": [
+      "It lives in social groups with clear rank.",
+      "It has been widely used in medical research."
+    ],
+    "wikipedia": "Rhesus macaque"
+  },
+  "sacred_lotus": {
+    "common_name": "Sacred Lotus",
+    "scientific_name": "Nelumbo nucifera",
+    "type": "Plant",
+    "wild_status": "Wild (also cultivated)",
+    "conservation_status": "Not threatened",
+    "status_level": "safe",
+    "brief": "An aquatic plant with large round leaves and pink or white flowers that rise above the water. It is India's national flower.",
+    "habitat": "Shallow ponds, lakes and slow-moving water across Asia.",
+    "uses": "Seeds, roots and stems are eaten; petals and leaves are used in worship and traditional medicine.",
+    "threats": "Pollution and drainage of wetlands can affect wild populations locally.",
+    "fun_facts": [
+      "Lotus leaves repel water and dirt (the 'lotus effect').",
+      "Seeds can stay viable for hundreds of years."
+    ],
+    "wikipedia": "Nelumbo nucifera"
+  },
+  "sunflower": {
+    "common_name": "Sunflower",
+    "scientific_name": "Helianthus annuus",
+    "type": "Plant",
+    "wild_status": "Cultivated",
+    "conservation_status": "Not threatened (widely cultivated)",
+    "status_level": "safe",
+    "brief": "A tall plant with a large yellow flower head that follows the sun when young. It is grown for its seeds and oil.",
+    "habitat": "Open, sunny fields; native to North America and grown worldwide.",
+    "uses": "Seeds are eaten as snacks; sunflower oil is used for cooking.",
+    "threats": "Not threatened because it is widely cultivated.",
+    "fun_facts": [
+      "Young flowers turn to face the sun during the day.",
+      "The flower head is made of hundreds of tiny flowers."
+    ],
+    "wikipedia": "Helianthus annuus"
+  },
+  "tiger": {
+    "common_name": "Tiger",
+    "scientific_name": "Panthera tigris",
+    "type": "Animal",
+    "wild_status": "Wild",
+    "conservation_status": "Endangered (IUCN Red List)",
+    "status_level": "threatened",
+    "brief": "The largest living cat, with an orange coat and dark stripes. Each tiger's stripe pattern is unique. It is India's national animal.",
+    "habitat": "Forests, mangroves (such as the Sundarbans) and grasslands across South and Southeast Asia.",
+    "diet": "Carnivore: deer, wild boar and gaur.",
+    "threats": "Habitat loss, poaching and conflict with humans.",
+    "fun_facts": [
+      "Tigers are strong swimmers.",
+      "Project Tiger (1973) helped protect the species in India."
+    ],
+    "wikipedia": "Tiger"
+  }
+}
